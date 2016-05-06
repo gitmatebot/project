@@ -1,0 +1,3 @@
+TargetDirectories = testdir
+MaxLineLength = 80
+Keywords = asdf, jklö

@@ -1,0 +1,17 @@
+codec
+setup.py
+codec.egg-info/PKG-INFO
+codec.egg-info/SOURCES.txt
+codec.egg-info/dependency_links.txt
+codec.egg-info/top_level.txt
+codeclib/__init__.py
+codeclib/fillib/__init__.py
+codeclib/fillib/util/__init__.py
+codeclib/fillib/util/setting.py
+codeclib/fillib/util/settings.py
+codeclib/globalfilters/__init__.py
+codeclib/internal/FilterManager.py
+codeclib/internal/Process.py
+codeclib/internal/__init__.py
+codeclib/internal/util/__init__.py
+codeclib/localfilters/__init__.py
